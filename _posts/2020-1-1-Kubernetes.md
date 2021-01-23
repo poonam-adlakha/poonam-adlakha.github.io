@@ -1,4 +1,4 @@
-Kubernetes is a container orchestrator, which means that it is reponsible for 
+Kubernetes is a container orchestrator, which means that it is responsible for 
 managing containerized deployments.
 
 
